@@ -12,9 +12,9 @@ public class PyramidPatten {
 //     * * * * * *
 //    * * * * * * *
 //   * * * * * * * *
-		for (int i = 0; i <= 10; i++) {
+		for (int i = 0; i <= 5; i++) {
 
-			for (int j = 10; j >= i; j--) {
+			for (int j = 4; j >= i; j--) {
 
 				System.out.print(" ");
 			}
